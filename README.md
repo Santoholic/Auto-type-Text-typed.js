@@ -1,0 +1,1 @@
+# Auto-type-Text-typed.js
