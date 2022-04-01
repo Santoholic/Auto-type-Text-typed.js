@@ -4,4 +4,4 @@
 
 --To run locally download all files and compile it.
 
-The **Auto-type text website** is hosted using Github pages - 
+The **Auto-type text website** is hosted using Github pages - https://santoholic.github.io/Auto-type-Text-typed.js/
